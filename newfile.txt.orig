@@ -1,0 +1,15 @@
+one
+two
+three
+<<<<<<< HEAD
+five
+six
+seven
+thirteen
+fourteen
+=======
+four
+eight
+twelve
+fifteen
+>>>>>>> app/update
